@@ -15,7 +15,7 @@
                  
             </p> 
         </div>
-    </section>
+    </section> 
 </asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <h3>We suggest the following:</h3>
